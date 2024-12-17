@@ -1,0 +1,136 @@
+
+.bg{
+    background-image: url(bg.jpg);
+    background-size: cover;
+    height: 255vh;
+}
+.heading{
+    background-color: black;
+    color: white;
+    font-family: "Roboto";
+}
+.heading2{
+    display: flex;
+    flex-direction: row;
+    background-color: white;
+    color: black;
+    font-size: 15px;
+    border-radius: 10px;
+}
+.bo{
+    display: block;
+    background-color: white;
+}
+.h4{
+    margin-right: 30px;
+    margin-top: 25px;
+}
+.button1{
+    background-color: black;
+    color: white;
+    height: 40px;
+    width: 70px;
+    margin-top: 12px;
+    border-radius: 25px;
+    margin-left:830px ;  
+}
+.h1{
+    background-color: #fff;
+    color: black;
+    border-radius: 10px;
+}
+.lang{
+   
+    display: flex;
+    flex-direction: row;
+    background-color:white;
+    padding: 5px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    border-radius: 10px;
+}
+.m{
+    background-color: white;
+    color: black;
+    margin-left: 60;
+    border-radius: 10px;
+}
+.p{
+    margin-left: 300px;
+}
+.l{
+    background-color:black;
+    color: white;
+    font-size: 20px;
+    font-family: bolder;
+    border-radius: 25px;
+    padding: 10px;
+    height: 30px;
+    padding: 5px;
+    padding-bottom: 10px;  
+     margin-left: 40px;
+     margin-top: 13px; 
+     border: 2opx;
+     border-style: solid;   
+}
+.lan{
+    background-color: white;
+    border: 20px;
+    border-style: solid;
+}
+
+.img{
+    display: flex;
+    flex-direction: row;
+    margin: 20px;
+    background-color: white;
+    border-radius:25px ;
+}
+.i{
+    height: 300px;
+    width: 910px;   
+    margin: 10px;
+}
+.screen{
+    background-color: white;
+    border-radius: 20px;
+    margin-left: 30px;
+    height: 50px;
+}
+.s{
+    margin-left: 30%;
+    margin-top: 20px;
+}
+.th{
+    background-color: white;
+    border-radius: 10px;
+    color: black;
+}
+.m{
+    text-align: center;
+}
+.heaven{
+    border-radius: 10px;
+    background-color: white;
+    margin-right: 100px;
+    margin-left:100px ;
+    
+}
+.x{
+    width: 300px;
+    height: 300px;
+    background-color: white;
+   margin-left: 55px;
+    margin-top: 10px;    
+}
+.final{
+    background-color: white;
+    color: black;
+    border-radius: 10px;
+}
+p{
+    margin-left: 10px;
+}
+
+
+
